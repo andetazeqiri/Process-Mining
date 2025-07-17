@@ -1,0 +1,116 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0" version="26.2.8">
+  <diagram name="Page-1" id="EDUvqFsPy-sCMApE10lr">
+    <mxGraphModel dx="866" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="hGqNXo4ExyMfDspmV5Ls-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hGqNXo4ExyMfDspmV5Ls-1" target="hGqNXo4ExyMfDspmV5Ls-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hGqNXo4ExyMfDspmV5Ls-1" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="50" y="50" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hGqNXo4ExyMfDspmV5Ls-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hGqNXo4ExyMfDspmV5Ls-2" target="hGqNXo4ExyMfDspmV5Ls-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hGqNXo4ExyMfDspmV5Ls-2" value="Access to the DAP portal" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="160" y="45" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hGqNXo4ExyMfDspmV5Ls-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hGqNXo4ExyMfDspmV5Ls-4" target="hGqNXo4ExyMfDspmV5Ls-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hGqNXo4ExyMfDspmV5Ls-4" value="Selection of the position" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="300" y="45" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hGqNXo4ExyMfDspmV5Ls-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hGqNXo4ExyMfDspmV5Ls-6" target="hGqNXo4ExyMfDspmV5Ls-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="560" y="75" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hGqNXo4ExyMfDspmV5Ls-6" value="Start preparing the documents" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="440" y="45" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hGqNXo4ExyMfDspmV5Ls-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hGqNXo4ExyMfDspmV5Ls-8" target="hGqNXo4ExyMfDspmV5Ls-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hGqNXo4ExyMfDspmV5Ls-8" value="Submit Application" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="540" y="90" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hGqNXo4ExyMfDspmV5Ls-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hGqNXo4ExyMfDspmV5Ls-10" target="hGqNXo4ExyMfDspmV5Ls-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hGqNXo4ExyMfDspmV5Ls-10" value="Receiving the applications" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="40" y="240" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hGqNXo4ExyMfDspmV5Ls-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hGqNXo4ExyMfDspmV5Ls-12" target="hGqNXo4ExyMfDspmV5Ls-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hGqNXo4ExyMfDspmV5Ls-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hGqNXo4ExyMfDspmV5Ls-12" target="hGqNXo4ExyMfDspmV5Ls-28">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="270" y="195" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hGqNXo4ExyMfDspmV5Ls-12" value="Check the applicants&#39; documents" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="240" y="280" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hGqNXo4ExyMfDspmV5Ls-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hGqNXo4ExyMfDspmV5Ls-14" target="hGqNXo4ExyMfDspmV5Ls-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="540" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hGqNXo4ExyMfDspmV5Ls-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hGqNXo4ExyMfDspmV5Ls-14" target="hGqNXo4ExyMfDspmV5Ls-32">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="550" y="230" />
+              <mxPoint x="690" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hGqNXo4ExyMfDspmV5Ls-14" value="Check the fulfillment of the criteria" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="520" y="280" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hGqNXo4ExyMfDspmV5Ls-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hGqNXo4ExyMfDspmV5Ls-18" target="hGqNXo4ExyMfDspmV5Ls-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hGqNXo4ExyMfDspmV5Ls-18" value="Publish the list of applicants" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="680" y="280" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hGqNXo4ExyMfDspmV5Ls-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hGqNXo4ExyMfDspmV5Ls-20" target="hGqNXo4ExyMfDspmV5Ls-22">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="60" y="390" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hGqNXo4ExyMfDspmV5Ls-20" value="Conducting the written exam" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="810" y="350" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hGqNXo4ExyMfDspmV5Ls-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hGqNXo4ExyMfDspmV5Ls-22" target="hGqNXo4ExyMfDspmV5Ls-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hGqNXo4ExyMfDspmV5Ls-22" value="Selection of those who pass" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="30" y="420" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hGqNXo4ExyMfDspmV5Ls-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hGqNXo4ExyMfDspmV5Ls-24" target="hGqNXo4ExyMfDspmV5Ls-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hGqNXo4ExyMfDspmV5Ls-24" value="Conducting the oral interview" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="170" y="420" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hGqNXo4ExyMfDspmV5Ls-26" value="Selection of the winners" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="310" y="420" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hGqNXo4ExyMfDspmV5Ls-28" value="Notify the applicant about the missing documents" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="425" y="160" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="hGqNXo4ExyMfDspmV5Ls-32" value="Notify the applicant of their rejection" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="660" y="150" width="60" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

@@ -1,0 +1,76 @@
+CaseID,Activity,InitialStatus,FinalStatus,ProcessFlow,Timestamp
+1,Access to the DAP portal,Start,Accessed,Start of process,3/30/2025 8:00
+1,Selection of the position,Accessed,Position Selected,Applicant selects a position,3/30/2025 8:05
+1,Start preparing the documents,Position Selected,Documents Prepared,Documents preparation phase,3/30/2025 8:30
+1,Submit Application,Documents Prepared,Application Submitted,Submission of application,3/30/2025 9:00
+1,Receiving the applications,Application Submitted,Application Received,Institution receives application,3/30/2025 9:30
+1,Check the applicants' documents,Application Received,Documents Checked,Verification of documents,3/30/2025 10:00
+1,Check the fulfillment of the criteria,Documents Checked,Criteria Checked,Validation of criteria,3/30/2025 11:00
+1,Publish the list of applicants,Criteria Checked,List Published,Shortlisting candidates,3/30/2025 12:00
+1,Conducting the written exam,List Published,Exam Completed,Written exam phase,4/1/2025 9:00
+1,Selection of those who pass,Exam Completed,Selected for Interview,Filtering based on exam scores,4/1/2025 14:00
+1,Conducting the oral interview,Selected for Interview,Interview Completed,Interview phase,4/2/2025 10:00
+1,Selection of the winners,Interview Completed,Winners Selected,Final selection phase,4/2/2025 16:00
+2,Access to the DAP portal,Start,Accessed,Start of process,3/31/2025 8:10
+2,Selection of the position,Accessed,Position Selected,Applicant selects a position,3/31/2025 8:15
+2,Start preparing the documents,Position Selected,Documents Prepared,Documents preparation phase,3/31/2025 8:45
+2,Submit Application,Documents Prepared,Application Submitted,Submission of application,3/31/2025 9:15
+2,Receiving the applications,Application Submitted,Application Received,Institution receives application,3/31/2025 9:45
+2,Check the applicants' documents,Application Received,Documents Checked,Verification of documents,3/31/2025 10:15
+2,Notify the applicant about the missing documents,Documents Checked,Waiting for Response,Notification sent for missing documents,3/31/2025 10:45
+3,Access to the DAP portal,Start,Accessed,Start of process,4/1/2025 7:50
+3,Selection of the position,Accessed,Position Selected,Applicant selects a position,4/1/2025 7:55
+3,Start preparing the documents,Position Selected,Documents Prepared,Documents preparation phase,4/1/2025 8:20
+3,Submit Application,Documents Prepared,Application Submitted,Submission of application,4/1/2025 8:50
+3,Receiving the applications,Application Submitted,Application Received,Institution receives application,4/1/2025 9:20
+3,Check the applicants' documents,Application Received,Documents Checked,Verification of documents,4/1/2025 9:50
+3,Check the fulfillment of the criteria,Documents Checked,Criteria Not Met,Validation of criteria,4/1/2025 10:20
+3,Notify the applicant of their rejection,Criteria Not Met,Rejected,Rejection due to unmet criteria,4/1/2025 10:30
+4,Access to the DAP portal,Start,Accessed,Start of process,4/2/2025 9:00
+4,Selection of the position,Accessed,Position Selected,Applicant selects a position,4/2/2025 9:05
+4,Start preparing the documents,Position Selected,Documents Prepared,Documents preparation phase,4/2/2025 9:30
+4,Submit Application,Documents Prepared,Application Submitted,Submission of application,4/2/2025 10:00
+4,Receiving the applications,Application Submitted,Application Received,Institution receives application,4/2/2025 10:30
+4,Check the applicants' documents,Application Received,Documents Checked,Verification of documents,4/2/2025 11:00
+4,Check the fulfillment of the criteria,Documents Checked,Criteria Checked,Validation of criteria,4/2/2025 12:00
+4,Publish the list of applicants,Criteria Checked,List Published,Shortlisting candidates,4/2/2025 13:00
+4,Conducting the written exam,List Published,Exam Completed,Written exam phase,4/4/2025 9:00
+4,Selection of those who pass,Exam Completed,Selected for Interview,Filtering based on exam scores,4/4/2025 14:00
+4,Conducting the oral interview,Selected for Interview,Interview Completed,Interview phase,4/5/2025 10:00
+4,Selection of the winners,Interview Completed,Winners Selected,Final selection phase,4/5/2025 16:00
+5,Access to the DAP portal,Start,Accessed,Start of process,4/3/2025 8:30
+5,Selection of the position,Accessed,Position Selected,Applicant selects a position,4/3/2025 8:35
+5,Start preparing the documents,Position Selected,Documents Prepared,Documents preparation phase,4/3/2025 9:00
+5,Submit Application,Documents Prepared,Application Submitted,Submission of application,4/3/2025 9:30
+5,Receiving the applications,Application Submitted,Application Received,Institution receives application,4/3/2025 10:00
+5,Check the applicants' documents,Application Received,Documents Issues,Verification of documents,4/3/2025 10:30
+5,Notify the applicant about the missing documents,Documents Issues,Waiting for Response,Notification sent for missing documents,4/3/2025 11:00
+5,Receive updated documents,Waiting for Response,Documents Received,Applicant submits missing documents,4/4/2025 9:00
+5,Check the applicants' documents,Documents Received,Documents Checked,Verification of documents,4/4/2025 10:00
+5,Check the fulfillment of the criteria,Documents Checked,Criteria Not Met,Validation of criteria,4/4/2025 11:00
+5,Notify the applicant of their rejection,Criteria Not Met,Rejected,Rejection due to unmet criteria,4/4/2025 11:30
+6,Access to the DAP portal,Start,Accessed,Start of process,4/5/2025 10:00
+6,Selection of the position,Accessed,Position Selected,Applicant selects a position,4/5/2025 10:05
+6,Start preparing the documents,Position Selected,Documents Prepared,Documents preparation phase,4/5/2025 10:30
+6,Submit Application,Documents Prepared,Application Submitted,Submission of application,4/5/2025 11:00
+6,Receiving the applications,Application Submitted,Application Received,Institution receives application,4/5/2025 11:30
+6,Check the applicants' documents,Application Received,Documents Checked,Verification of documents,4/5/2025 12:00
+6,Check the fulfillment of the criteria,Documents Checked,Criteria Checked,Validation of criteria,4/5/2025 13:00
+6,Publish the list of applicants,Criteria Checked,List Published,Shortlisting candidates,4/5/2025 14:00
+6,Conducting the written exam,List Published,Exam Failed,Written exam phase,4/7/2025 9:00
+6,Notify the applicant of their rejection,Exam Failed,Rejected,Rejection due to exam failure,4/7/2025 14:00
+7,Access to the DAP portal,Start,Accessed,Start of process,4/1/2025 13:00
+7,Selection of the position,Accessed,Position Selected,Applicant selects a position,4/1/2025 13:05
+7,Start preparing the documents,Position Selected,Documents Prepared,Documents preparation phase,4/1/2025 13:30
+7,Submit Application,Documents Prepared,Application Submitted,Submission of application,4/1/2025 14:00
+7,Receiving the applications,Application Submitted,Application Received,Institution receives application,4/1/2025 14:30
+7,Check the applicants' documents,Application Received,Documents Checked,Verification of documents,4/1/2025 15:00
+7,Check the fulfillment of the criteria,Documents Checked,Criteria Checked,Validation of criteria,4/1/2025 16:00
+7,Publish the list of applicants,Criteria Checked,List Published,Shortlisting candidates,4/1/2025 17:00
+7,Conducting the written exam,List Published,Exam Completed,Written exam phase,4/3/2025 9:00
+7,Selection of those who pass,Exam Completed,Selected for Interview,Filtering based on exam scores,4/3/2025 14:00
+7,Conducting the oral interview,Selected for Interview,Interview Completed,Interview phase,4/4/2025 10:00
+7,Selection of the winners,Interview Completed,Winners Selected,Final selection phase,4/4/2025 16:00
+8,Access to the DAP portal,Start,Accessed,Start of process,4/6/2025 9:00
+8,Selection of the position,Accessed,Position Selected,Applicant selects a position,4/6/2025 9:05
+8,Start preparing the documents,Position Selected,Abandoned,Applicant abandoned the process,4/6/2025 9:10
